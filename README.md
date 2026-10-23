@@ -19,9 +19,7 @@ Node.js · TypeScript · React · Flutter / Dart · PHP / Laravel · AWS (SQS) �
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/assuncaojr/) · assuncaojr@gmail.com · English B2
-
-<!-- When the landing page is live on revomidia.com.br, add it here: · [Site](https://revomidia.com.br/...) -->
+[Site](https://revomidia.com.br/assuncaojr/#en) · [LinkedIn](https://www.linkedin.com/in/assuncaojr/) · assuncaojr@gmail.com · English B2
 
 <details>
 <summary><b>Em português</b></summary>
